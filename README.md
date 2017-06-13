@@ -1,6 +1,6 @@
-# ShellScript language support in Atom [![Build Status](https://travis-ci.org/atom/language-shellscript.svg?branch=master)](https://travis-ci.org/atom/language-shellscript)
+# Pan language support in Atom
 
-Adds syntax highlighting and snippets to shell scripts in Atom.
+Adds syntax highlighting and snippets to Pan templates in Atom.
 
 Originally [converted](http://atom.io/docs/latest/converting-a-text-mate-bundle)
 from the [ShellScript TextMate bundle](https://github.com/textmate/shellscript.tmbundle).

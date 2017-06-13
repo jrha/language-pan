@@ -1,0 +1,6 @@
+'.source.pan':
+    'editor':
+        'commentStart': '# '
+        'foldEndPattern': '^\\s*\\}|^\\s*\\)'
+        'increaseIndentPattern': '^.*([{])$'
+        #'decreaseIndentPattern': '^.*([}\\)])$'

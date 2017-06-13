@@ -1,0 +1,16 @@
+'.source.pan':
+    'for …':
+        'prefix': 'for'
+        'body': 'for (i = 0; i < ${1:condition}; i = i + 1 ) {\n\t${0:#statements}\n};'
+    'foreach …':
+        'prefix': 'for'
+        'body': 'foreach (k; v; ${1:resource}) {\n\t${0:#statements}\n};'
+    'if …':
+        'prefix': 'if'
+        'body': 'if (${1:condition}) {\n\t${0:#statements}\n};'
+    'type …':
+        'prefix': 'type'
+        'body': 'type ${1:name} = {\n\t${0:#definition}\n};'
+    'function …':
+        'prefix': 'function'
+        'body': 'function ${1:name} = {\n\t${0:#definition}\n};'
