@@ -1,4 +1,5 @@
 Copyright (c) 2014 GitHub Inc.
+
 Copyright (c) 2017 Science & Technology Facilities Council
 
 Permission is hereby granted, free of charge, to any person obtaining

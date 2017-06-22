@@ -564,8 +564,8 @@
             {
                 'captures':
                     '1':
-                        'name': 'keyword.other'
-                'match': '\\b(variable)\\s+(\\w)\\b'
+                        'name': 'storage.type.var.pan'
+                'match': '\\b(variable)\\s+(\\w+)\\b'
                 'name': 'variable.other.pan'
             }
         ]
