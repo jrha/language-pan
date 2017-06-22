@@ -234,7 +234,11 @@
             }
             {
                 'match': '\\b(final)\\b'
-                'name': 'storage.modifier.pan'
+                'name': 'storage.modifier.final.pan'
+            }
+            {
+                'match': '\\b(bind)\\b'
+                'name': 'storage.modifier.bind.pan'
             }
         ]
     'support':
