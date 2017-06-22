@@ -245,7 +245,7 @@
             }
             {
                 'match': '\\b(base64_decode|base64_encode|digest|escape|unescape)\\b'
-                'name': 'ksupport.function.pan.codec'
+                'name': 'support.function.pan.codec'
             }
             {
                 'match': '\\b(append|create|first|dict|key|length|list|merge|next|prepend|splice)\\b'
