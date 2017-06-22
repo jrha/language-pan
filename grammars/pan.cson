@@ -572,6 +572,13 @@
                 'match': '\\b(variable)\\s+(\\w+)\\b'
                 'name': 'variable.other.pan'
             }
+            {
+                'name': 'storage.type.class.pan'
+                'match': '\\b(type)\\s+(\\w+)\\b'
+                'captures':
+                    '2':
+                        'name': 'entity.name.type.pan'
+            }
         ]
     'annotation':
         'patterns': [
