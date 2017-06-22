@@ -586,16 +586,16 @@
                 'begin': '@(\\w+){'
                 'beginCaptures':
                     '0':
-                        'name': 'keyword.operator.annotation-token.pan'
+                        'name': 'keyword.operator.comment.annotation.token.pan'
                     '1':
-                        'name': 'keyword.operator.annotation-name.pan'
+                        'name': 'keyword.operator.comment.annotation.name.pan'
                 'captures':
                     '0':
-                        'name': 'punctuation.definition.string.pan'
+                        'name': 'punctuation.definition.comment.pan'
                 'end': '(}$)'
                 'endCaptures':
                     '1':
                         'name': 'keyword.control.annotation-token.pan'
-                'name': 'string.unquoted.annotation.pan'
+                'name': 'comment.block.documentation.annotation.pan'
             }
         ]
