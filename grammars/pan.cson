@@ -596,7 +596,7 @@
                 'captures':
                     '0':
                         'name': 'punctuation.definition.comment.pan'
-                'end': '(}$)'
+                'end': '(})'
                 'endCaptures':
                     '1':
                         'name': 'keyword.control.annotation-token.pan'
