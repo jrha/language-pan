@@ -587,7 +587,7 @@
     'annotation':
         'patterns': [
             {
-                'begin': '@(\\w+){'
+                'begin': '@(\\w*){'
                 'beginCaptures':
                     '0':
                         'name': 'keyword.operator.comment.annotation.token.pan'
